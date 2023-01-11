@@ -3,5 +3,5 @@
 - Publication: CVPR, 2016 
 - Link: [[paper](https://arxiv.org/abs/1512.03385)] [[code](https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py)]
 
-
-SungEun:잘 들었다.
+## Review
+SungEun: Well Done.
