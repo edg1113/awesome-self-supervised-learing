@@ -1,11 +1,6 @@
-# Awesome Paper Template
+# Awesome Self-Supervised learning
 
-This is an awesome computer vision paper template. Use this template for your own purpose.
-
-Please introduce your project here.
-
-
-
+This repository contains the Self-Supervised learning paper lists
 ---
 
 ## Overview
