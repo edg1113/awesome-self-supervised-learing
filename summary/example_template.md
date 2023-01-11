@@ -1,9 +1,7 @@
 # ResNet
----
 - Title: Deep Residual Learning for Image Recognition
 - Publication: CVPR, 2016 
 - Link: [[paper](https://arxiv.org/abs/1512.03385)] [[code](https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py)]
----
 
 
 ResNet is blah...blah...blah...
@@ -11,7 +9,6 @@ ResNet is blah...blah...blah...
 
 
 ## Reference
----
 ```tex
 @article{DBLP:journals/corr/HeZRS15,
   author    = {Kaiming He and
