@@ -21,3 +21,4 @@ The paper lists of Self-Supervised Learning
 
 - **MoCo**: "Momentum Contrast for Unsupervised Visual Representation Learning", CVPR, 2020 [[paper](https://arxiv.org/abs/1911.05722)] [[code](https://github.com/facebookresearch/moco)] [[summary](summary/moco.md)][[review](review/MoCo.md)]
 
+asdasd
